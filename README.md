@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-barroncas/)](https://www.linkedin.com/in/alan-barroncas/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hunter_prmts/)](https://www.instagram.com/hunter_prmts/)
 
-### um pouco de mim ^^
+### Quem sou eu? ^^
 artista e Desenvolvedor front-end em constante movimento... ^^
 
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
