@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-barroncas/)](https://www.linkedin.com/in/alan-barroncas/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hunter_prmts/)](https://www.instagram.com/hunter_prmts/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-darkblue?style=flat-square&logo=Discord&logoColor=white&link=https://img.shields.io/discord/Hunter#1866/)](https://img.shields.io/discord/Hunter#1866/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-darkblue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/Hunter#1866/)](https://discord.com/Hunter#1866/)
 
 
 ### Quem sou eu?
