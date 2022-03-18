@@ -1,6 +1,5 @@
 # Olá, sou Alan Barroncas! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Hunterland)](https://github.com/Hunterland)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-barroncas/)](https://www.linkedin.com/in/alan-barroncas/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hunter_prmts/)](https://www.instagram.com/hunter_prmts/)
 
