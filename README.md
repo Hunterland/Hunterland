@@ -1,7 +1,7 @@
 # Olá, sou Alan Barroncas! :D
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-barroncas/)](https://www.linkedin.com/in/alan-barroncas/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hunter_prmts/)](https://www.instagram.com/hunter_prmts/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hunterland95/)](https://www.instagram.com/hunterland95/)
 
 
 ### Quem sou eu?
