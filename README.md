@@ -5,7 +5,7 @@
 
 
 ### Quem sou eu?
-Artista na cultura hip hop no amazonas, entusiasta em tecnologia, amante de Café☕, Games🎮, Filmes e Séries🎥 & Breaking🤸
+Artista, entusiasta em tecnologia, amante de Café☕, Games🎮, Filmes e Séries🎥 & Breaking🤸
 
 ### Tecnologias de uso frequente...
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
