@@ -8,19 +8,8 @@
 Artista, entusiasta em tecnologia, gosto de café☕, games 🎮, Filmes e Séries🎥 & Breaking🤸
 
 ### Hard Skills ...
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>          
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />     
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
-
-
-
+Me chamo Alan Barroncas, tenho 28 anos, graduando em Análise e Desenvolvimento de Sistemas.
+Tenho foco em atuação no desenvolvimento Frontend ou Full-Stack com Javascript.
+🌱 Atualmente estou explorando o mundo do React.
 
 
