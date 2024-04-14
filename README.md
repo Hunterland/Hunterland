@@ -10,7 +10,7 @@
 ## 💫 Sobre mim:
 Artista, entusiasta em tecnologia, gosto de café☕, games 🎮, Filmes e Séries🎥 & Breaking🤸
 
-### Hard Skills ...
+### Skills ...
 * Graduando em Análise e Desenvolvimento de Sistemas.
 * Foco em atuar no desenvolvimento Frontend ou Full-Stack com Javascript.
 * 🌱 Atualmente estou explorando o mundo do React.
