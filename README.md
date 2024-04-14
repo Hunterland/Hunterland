@@ -8,8 +8,8 @@
 Artista, entusiasta em tecnologia, gosto de café☕, games 🎮, Filmes e Séries🎥 & Breaking🤸
 
 ### Hard Skills ...
-Me chamo Alan Barroncas, tenho 28 anos, graduando em Análise e Desenvolvimento de Sistemas.
-Tenho foco em atuação no desenvolvimento Frontend ou Full-Stack com Javascript.
-🌱 Atualmente estou explorando o mundo do React.
+* Me chamo Alan Barroncas, tenho 28 anos, graduando em Análise e Desenvolvimento de Sistemas.
+* Tenho foco em atuação no desenvolvimento Frontend ou Full-Stack com Javascript.
+* 🌱 Atualmente estou explorando o mundo do React.
 
 
