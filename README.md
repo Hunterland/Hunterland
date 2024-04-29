@@ -23,6 +23,7 @@ Um artista e entusiasta de tecnologia com uma paixão por café☕, games 🎮, 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ## 💻 Back-end
