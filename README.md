@@ -11,17 +11,14 @@
 Um artista e entusiasta de tecnologia com uma paixão por café☕, games 🎮, filmes, séries🎥 & Breaking🤸.
 * Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e explorando o mundo do React e Tailwind CSS.
 
-🧑🏻‍💻 Experiência com tecnologias:
+## 🧑🏻‍💻 Experiência com :
 
 
-
-## 🖥️ Linguagens de programação:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
 ## 🖥️ Front-end
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
