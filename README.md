@@ -9,7 +9,7 @@
 ## 💫 Sobre Mim
 
 Um artista e entusiasta de tecnologia com uma paixão por café☕, games 🎮, filmes e séries🎥 & Breaking🤸.
-* Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e explorando o mundo do React.
+* Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e explorando o mundo do React e Tailwind CSS.
 
 ## 🧑🏻‍💻 Linguagens de Programação
 
