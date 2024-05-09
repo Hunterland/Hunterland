@@ -43,7 +43,9 @@ Um artista e entusiasta de tecnologia com uma paixão por café☕, games 🎮, 
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![SourceTree](https://img.shields.io/badge/SourceTree-000?style=for-the-badge&logo=SourceTree&logoColor=blue)
 
 <hr>
+
 
 <center>&copy; 2024 Alan Barroncas</center>
