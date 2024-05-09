@@ -11,7 +11,7 @@
 Um artista e entusiasta de tecnologia com uma paixão por café☕, games 🎮, filmes, séries🎥 & Breaking🤸.
 * Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e explorando o mundo do React e Tailwind CSS.
 
-## 🧑🏻‍💻 Experiência com tecnologias:
+🧑🏻‍💻 Experiência com tecnologias:
 
 
 
