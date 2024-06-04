@@ -3,7 +3,7 @@
 ## 🌐 Redes Sociais
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF5722)](https://portifolio-v2-hunterland-project.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/alan-barroncas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/alan-barroncas95/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=3F729B)](https://www.instagram.com/hunterland95/)
 
 ## 💫 Sobre Mim
