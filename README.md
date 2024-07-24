@@ -32,7 +32,6 @@ Um artista e entusiasta de tecnologia com uma paixão por café☕, games 🎮, 
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ## 💾 Bancos de Dados
 
