@@ -18,7 +18,7 @@ Sou desenvolvedor Fullstack apaixonado por tecnologia e construção de soluçõ
 
 Gosto de entender como as coisas funcionam por trás da interface — desde a experiência do usuário até a lógica de negócio, arquitetura da aplicação e modelagem do banco de dados. Tenho foco em aplicações web organizadas, bem estruturadas e pensadas para escalar.
 
-Além da tecnologia, sou artista da cultura hip hop e atuo fomentando a produção de eventos, o que fortalece minha visão de produto, organização e responsabilidade.
+Além da tecnologia, sou artista da cultura hip hop no amazonas e atuo fomentando a produção de eventos, o que fortalece minha visão de produto, organização e responsabilidade.
 
 ---
 
