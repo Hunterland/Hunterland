@@ -14,11 +14,54 @@
 
 ## 💫 Sobre Mim
 
-Sou desenvolvedor Fullstack apaixonado por tecnologia e construção de soluções que realmente funcionam na prática.
+Sou desenvolvedor Fullstack focado na construção de aplicações web modernas, organizadas e escaláveis.
+Atuo principalmente no desenvolvimento de sistemas corporativos utilizando **Angular no frontend** e **Node.js/NestJS no backend**, aplicando boas práticas de arquitetura, autenticação e modelagem de dados.
 
-Gosto de entender como as coisas funcionam por trás da interface — desde a experiência do usuário até a lógica de negócio, arquitetura da aplicação e modelagem do banco de dados. Tenho foco em aplicações web organizadas, bem estruturadas e pensadas para escalar.
+Tenho interesse especial em entender todo o ciclo da aplicação — da experiência do usuário até regras de negócio, APIs e persistência de dados.
 
-Além da tecnologia, sou artista da cultura hip hop no amazonas e atuo fomentando a produção de eventos, o que fortalece minha visão de produto, organização e responsabilidade.
+Além da tecnologia, atuo como artista da cultura hip hop no Amazonas e na produção de eventos culturais, experiência que fortalece minha visão de produto, organização de processos e trabalho em equipe.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧠 Helpsi — Plataforma de Consultas Psicológicas
+
+Sistema web para conexão entre psicólogos e pacientes, permitindo gerenciamento de atendimentos e acompanhamento de consultas online.
+
+**Stack:**
+React • TypeScript • Material UI • Ant Design • Styled Components • React Router • Axios • JWT Decode • i18next • Chart.js • Date-fns
+
+✅ Autenticação e gerenciamento de usuários
+✅ Agendamento e gestão de consultas
+✅ Interface responsiva e experiência centrada no usuário
+✅ Internacionalização (i18n)
+✅ Visualização de dados e métricas
+
+🌐 Deploy:
+https://portifolio-v2-hunterland-project.vercel.app/
+
+🔒 Repositório privado — participação como desenvolvedor colaborador
+https://github.com/rmvnew/project-helpsi-frontEnd/
+
+---
+
+### ✅ TaskFlow — Sistema de Gestão de Tarefas
+
+Aplicação fullstack para gerenciamento de tarefas e controle de acesso com arquitetura modular escalável.
+
+**Stack:** Angular • NestJS • PostgreSQL • JWT • Prisma
+
+✅ Login e autenticação segura
+✅ Gestão de perfis e permissões
+✅ Arquitetura modular escalável
+✅ Organização de tarefas e fluxos de trabalho
+
+🌐 Deploy:
+https://portifolio-v2-hunterland-project.vercel.app/
+
+💻 Repositório:
+https://github.com/alan-barroncas95
 
 ---
 
@@ -32,8 +75,8 @@ Além da tecnologia, sou artista da cultura hip hop no amazonas e atuo fomentand
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge\&logo=bootstrap)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwind-css\&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
 
 ---
@@ -46,6 +89,7 @@ Além da tecnologia, sou artista da cultura hip hop no amazonas e atuo fomentand
 ![REST API](https://img.shields.io/badge/RESTful-000?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge\&logo=jsonwebtokens)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge\&logo=prisma)
+![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge\&logo=npm)
 
 ---
 
@@ -61,10 +105,26 @@ Além da tecnologia, sou artista da cultura hip hop no amazonas e atuo fomentand
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=E44C30)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge\&logo=gitlab)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
 ![SourceTree](https://img.shields.io/badge/SourceTree-000?style=for-the-badge\&logo=sourcetree\&logoColor=blue)
+
+---
+
+## 📚 Atualmente Aprofundando
+
+* Arquitetura Backend com NestJS
+* Autenticação e segurança com JWT e Refresh Token
+* Dockerização e deploy de aplicações
+* Boas práticas de organização e escalabilidade frontend com Angular
+
+---
+
+## 🤝 Vamos Conectar
+
+💬 Aberto para colaboração, projetos e oportunidades na área de desenvolvimento web.
 
 ---
 
