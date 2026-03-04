@@ -15,7 +15,7 @@
 ## 💫 Sobre Mim
 
 Sou desenvolvedor Fullstack focado na construção de aplicações web modernas, organizadas e escaláveis.
-Atuo principalmente no desenvolvimento de sistemas corporativos utilizando **Angular no frontend** e **Node.js/NestJS no backend**, aplicando boas práticas de arquitetura, autenticação e modelagem de dados.
+Atuo principalmente no desenvolvimento de sistemas corporativos utilizando **Angular no frontend** e **Node.js no backend**, aplicando boas práticas de arquitetura, autenticação, e desenvolvimento de software.
 
 Tenho interesse especial em compreender todo o ciclo da aplicação — da experiência do usuário até regras de negócio, APIs e persistência de dados.
 
@@ -25,7 +25,7 @@ Além da tecnologia, atuo como artista da cultura hip hop no Amazonas e na produ
 
 ## 🚀 Projetos em Destaque
 
-### 🧠 Helpsi — Plataforma de Consultas Psicológicas *(Contribuição Profissional)*
+### 🧠 Helpsi — Plataforma de Consultas Psicológicas *(Projeto acadêmico com contribuição)*
 
 Sistema web para conexão entre psicólogos e pacientes, permitindo gerenciamento de atendimentos e acompanhamento de consultas online.
 
@@ -41,7 +41,7 @@ React • TypeScript • Material UI • Ant Design • Styled Components • Re
 🔒 Repositório privado — participação como desenvolvedor colaborador
 https://github.com/rmvnew/project-helpsi-frontEnd/
 
-🌐 Deploy restrito (projeto corporativo)
+🌐 Deploy restrito (projeto acadêmico)
 
 ---
 
@@ -57,14 +57,14 @@ Aplicação fullstack para gerenciamento de tarefas e controle de acesso com arq
 ✅ Organização de tarefas e fluxos de trabalho
 
 🌐 Deploy:
-https://portifolio-v2-hunterland-project.vercel.app/
+Em processo...⏳
 
 💻 Repositório:
 https://github.com/alan-barroncas95
 
 ---
 
-## 🧠 Stack Principal
+## 🧠 Stacks Principal 
 
 ### 🖥️ Frontend
 
