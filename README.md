@@ -1,10 +1,12 @@
 # 👋 Olá, eu sou Alan Barroncas
 
-### 💻 Fullstack Developer | Angular | TypeScript | Node.js | PostgreSQL | Docker
+### 💻 Fullstack Developer
+
+Angular • TypeScript • Node.js • PostgreSQL • Docker
 
 ---
 
-## 🌐 Conecte-se comigo
+# 🌐 Conecte-se comigo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=todoist\&logoColor=FF5722)](https://portifolio-v2-hunterland-project.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=0077B5)](https://www.linkedin.com/in/alan-barroncas95/)
@@ -12,25 +14,41 @@
 
 ---
 
-## 💫 Sobre Mim
+# 💫 Sobre Mim
 
-Sou desenvolvedor Fullstack focado na construção de aplicações web modernas, organizadas e escaláveis.
-Atuo principalmente no desenvolvimento de sistemas corporativos utilizando **Angular no frontend** e **Node.js no backend**, aplicando boas práticas de arquitetura, autenticação, e desenvolvimento de software.
+Sou **desenvolvedor Fullstack** focado na construção de aplicações web modernas, organizadas e escaláveis.
 
-Tenho interesse especial em compreender todo o ciclo da aplicação — da experiência do usuário até regras de negócio, APIs e persistência de dados.
+Atuo principalmente no desenvolvimento de sistemas corporativos utilizando **Angular no frontend** e **Node.js no backend**, aplicando boas práticas de arquitetura, autenticação e desenvolvimento de software.
 
-Além da tecnologia, atuo como artista da cultura hip hop no Amazonas e na produção de eventos culturais, experiência que fortalece minha visão de produto, organização de processos e trabalho em equipe.
+Tenho interesse especial em compreender **todo o ciclo da aplicação** — desde a experiência do usuário até regras de negócio, APIs e persistência de dados.
+
+Além da tecnologia, atuo como **artista da cultura hip-hop no Amazonas** e na produção de eventos culturais. Essa experiência fortalece minha visão de **produto, organização de processos e trabalho em equipe**.
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-### 🧠 Helpsi — Plataforma de Consultas Psicológicas *(Projeto acadêmico com contribuição)*
+## 🧠 Helpsi — Plataforma de Consultas Psicológicas
+
+*(Projeto acadêmico com contribuição)*
 
 Sistema web para conexão entre psicólogos e pacientes, permitindo gerenciamento de atendimentos e acompanhamento de consultas online.
 
-**Stack:**
-React • TypeScript • Material UI • Ant Design • Styled Components • React Router • Axios • JWT Decode • i18next • Chart.js • Date-fns
+### Stack
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="30" title="Ant Design"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="30" title="Styled Components"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="30" title="Axios"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="30" title="Chart.js"/>
+
+</p>
+
+### Contribuições
 
 ✅ Desenvolvimento e melhorias em funcionalidades frontend
 ✅ Implementação de interfaces e componentes reutilizáveis
@@ -39,34 +57,48 @@ React • TypeScript • Material UI • Ant Design • Styled Components • Re
 ✅ Internacionalização (i18n)
 
 🔒 Repositório privado — participação como desenvolvedor colaborador
-https://github.com/rmvnew/project-helpsi-frontEnd/
+[https://github.com/rmvnew/project-helpsi-frontEnd/](https://github.com/rmvnew/project-helpsi-frontEnd/)
 
 🌐 Deploy restrito (projeto acadêmico)
 
 ---
 
-### ✅ TaskFlow — Sistema de Gestão de Tarefas
+## ✅ TaskFlow — Sistema de Gestão de Tarefas
 
-Aplicação fullstack para gerenciamento de tarefas e controle de acesso com arquitetura modular escalável.
+Aplicação **fullstack** para gerenciamento de tarefas e controle de acesso com arquitetura modular escalável.
 
-**Stack:** Angular • NestJS • PostgreSQL • JWT • Prisma
+### Stack
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="30" title="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30" title="Prisma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
+
+</p>
+
+### Funcionalidades
 
 ✅ Login e autenticação segura
 ✅ Gestão de perfis e permissões
 ✅ Arquitetura modular escalável
 ✅ Organização de tarefas e fluxos de trabalho
 
-🌐 Deploy:
-Em processo...⏳
+🌐 Deploy
+Em processo... ⏳
 
-💻 Repositório:
-https://github.com/alan-barroncas95
+💻 Repositório
+[https://github.com/alan-barroncas95](https://github.com/alan-barroncas95)
 
 ---
 
-## 🧠 Stacks Principal 
+# 🧠 Stack Principal
 
-### 🖥️ Frontend
+---
+
+# 🖥️ Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge\&logo=angular\&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript\&logoColor=007ACC)
@@ -80,7 +112,7 @@ https://github.com/alan-barroncas95
 
 ---
 
-### 💻 Backend
+# 💻 Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js\&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
@@ -92,7 +124,7 @@ https://github.com/alan-barroncas95
 
 ---
 
-### 💾 Banco de Dados
+# 💾 Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -100,7 +132,7 @@ https://github.com/alan-barroncas95
 
 ---
 
-### 🚀 DevOps & Infra
+# 🚀 DevOps & Infra
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=E44C30)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
@@ -112,7 +144,7 @@ https://github.com/alan-barroncas95
 
 ---
 
-## 📚 Atualmente Aprofundando
+# 📚 Atualmente Aprofundando
 
 * Arquitetura Backend com NestJS
 * Autenticação e segurança com JWT e Refresh Token
@@ -121,10 +153,14 @@ https://github.com/alan-barroncas95
 
 ---
 
-## 🤝 Vamos Conectar
+# 🤝 Vamos Conectar
 
 💬 Aberto para colaboração, projetos e oportunidades na área de desenvolvimento web.
 
 ---
 
-© 2026 Alan Barroncas
+© 2026 **Alan Barroncas**
+
+---
+
+Se quiser, posso também te mostrar **3 melhorias no README que fazem recrutadores olharem seu perfil por mais tempo no GitHub (diferença real de perfil júnior para pleno)**.
