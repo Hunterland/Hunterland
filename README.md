@@ -160,7 +160,3 @@ Em processo... ⏳
 ---
 
 © 2026 **Alan Barroncas**
-
----
-
-Se quiser, posso também te mostrar **3 melhorias no README que fazem recrutadores olharem seu perfil por mais tempo no GitHub (diferença real de perfil júnior para pleno)**.
