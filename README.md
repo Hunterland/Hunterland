@@ -114,13 +114,14 @@ Em processo... ⏳
 
 # 💻 Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge\&logo=nestjs\&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![REST API](https://img.shields.io/badge/RESTful-000?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge\&logo=jsonwebtokens)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge\&logo=prisma)
-![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge\&logo=npm)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
