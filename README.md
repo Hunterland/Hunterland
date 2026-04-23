@@ -32,7 +32,7 @@ Além da tecnologia, atuo como **artista da cultura hip-hop no Amazonas** e na p
 
 *(Projeto acadêmico com contribuição)*
 
-Sistema web para conexão entre psicólogos e pacientes, permitindo gerenciamento de atendimentos e acompanhamento de consultas online.
+Sistema web voltado para a conexão entre psicólogos e pacientes, com foco em organização de atendimentos, acompanhamento de consultas e experiência responsiva.
 
 ### Stack
 
@@ -50,22 +50,28 @@ Sistema web para conexão entre psicólogos e pacientes, permitindo gerenciament
 
 ### Contribuições
 
-✅ Desenvolvimento e melhorias em funcionalidades frontend
-✅ Implementação de interfaces e componentes reutilizáveis
-✅ Integração com APIs e autenticação
-✅ Interface responsiva e experiência centrada no usuário
-✅ Internacionalização (i18n)
+✅ Desenvolvimento e melhorias em funcionalidades frontend  
+✅ Implementação de interfaces e componentes reutilizáveis  
+✅ Integração com APIs e autenticação  
+✅ Interface responsiva e experiência centrada no usuário  
+✅ Internacionalização (i18n)  
 
-🔒 Repositório privado — participação como desenvolvedor colaborador
+### Destaques
+
+✔ Projeto com foco em acessibilidade e usabilidade  
+✔ Organização visual pensada para fluxo de atendimento  
+✔ Estrutura adequada para evolução incremental da plataforma  
+
+🔒 Repositório privado — participação como desenvolvedor colaborador  
 [https://github.com/rmvnew/project-helpsi-frontEnd/](https://github.com/rmvnew/project-helpsi-frontEnd/)
 
 🌐 Deploy restrito (projeto acadêmico)
 
 ---
 
-## ✅ TaskFlow — Sistema de Gestão de Tarefas
+## ✅ TaskFlow — Plataforma de Gestão de Projetos e Tarefas
 
-Aplicação **fullstack** para gerenciamento de tarefas e controle de acesso com arquitetura modular escalável.
+Aplicação **fullstack** para organização de projetos, tarefas e controle de acesso, com foco em produtividade, escalabilidade e experiência de uso.
 
 ### Stack
 
@@ -81,16 +87,25 @@ Aplicação **fullstack** para gerenciamento de tarefas e controle de acesso com
 
 ### Funcionalidades
 
-✅ Login e autenticação segura
-✅ Gestão de perfis e permissões
-✅ Arquitetura modular escalável
-✅ Organização de tarefas e fluxos de trabalho
+✅ Autenticação com JWT e controle de sessão  
+✅ Controle de perfis, permissões e acesso por papel  
+✅ Gestão de projetos e tarefas em uma interface organizada  
+✅ Arquitetura modular com frontend e backend desacoplados  
+✅ Persistência com PostgreSQL e Prisma  
+✅ Interface pensada para uso diário e evolução contínua  
 
-🌐 Deploy
+### Diferenciais
+
+✔ Estrutura preparada para crescimento incremental  
+✔ Separação clara entre domínio, API e interface  
+✔ Foco em manutenção, organização e boa experiência de uso  
+✔ Projeto em evolução contínua com melhorias de UX e arquitetura  
+
+🌐 Deploy  
 Em processo... ⏳
 
-💻 Repositório
-[https://github.com/alan-barroncas95](https://github.com/alan-barroncas95)
+💻 Repositório  
+[https://github.com/alan-barroncas95](https://github.com/Hunterland/taskflow)
 
 ---
 
