@@ -26,86 +26,85 @@ Além da tecnologia, atuo como **artista na cultura hip-hop do Amazonas** em sta
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-## 🧠 Helpsi — Plataforma de Consultas Psicológicas
+### 🏆 Triad — Plataforma de Gerenciamento de Competições
 
-*(Projeto acadêmico com contribuição)*
+Sistema backend voltado ao gerenciamento de competições, com recursos para organização de eventos, inscrições, formação de chaves, atribuição de juízes e avaliação de competidores.
 
-Sistema web voltado para a conexão entre psicólogos e pacientes, com foco em organização de atendimentos, acompanhamento de consultas e experiência responsiva.
+**Tecnologias**
 
-### Stack
+![NestJS](https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=E0234E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white)
 
-<p>
+**Principais funcionalidades**
+- Gerenciamento de eventos, inscrições e participantes.
+- Geração de chaves de competição (brackets).
+- Gerenciamento de juízes, equipes de apoio e usuários.
+- Configuração versionada de critérios de julgamento.
+- Scorecards para avaliação de competidores por critérios.
+- Autenticação JWT e estrutura de controle de acesso por papéis.
+- API modular com validação de dados e documentação via Swagger.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="30" title="Ant Design"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="30" title="Styled Components"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="30" title="Axios"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="30" title="Chart.js"/>
+**Diferenciais**
+- Arquitetura modular com NestJS.
+- Separação de responsabilidades entre controllers, services e DTOs.
+- Modelagem de dados com Prisma e PostgreSQL.
+- Regras de negócio voltadas ao fluxo de competições e avaliações.
 
-</p>
-
-### Contribuições
-
-✅ Desenvolvimento e melhorias em funcionalidades frontend  
-✅ Implementação de interfaces e componentes reutilizáveis  
-✅ Integração com APIs e autenticação  
-✅ Interface responsiva e experiência centrada no usuário  
-✅ Internacionalização (i18n)  
-
-### Destaques
-
-✔ Projeto com foco em acessibilidade e usabilidade  
-✔ Organização visual pensada para fluxo de atendimento  
-✔ Estrutura adequada para evolução incremental da plataforma  
-
-🔒 Repositório privado — participação como desenvolvedor colaborador  
-[https://github.com/rmvnew/project-helpsi-frontEnd/](https://github.com/rmvnew/project-helpsi-frontEnd/)
-
-🌐 Deploy restrito (projeto acadêmico)
+💻 **Repositório:** [Hunterland/Triad](https://github.com/Hunterland/triad/tree/dev)
 
 ---
 
-## ✅ TaskFlow — Plataforma de Gestão de Projetos e Tarefas
+### 🗂️ TaskFlow — Plataforma de Gestão de Projetos e Tarefas
 
-Aplicação **fullstack** para organização de projetos, tarefas e controle de acesso, com foco em produtividade, escalabilidade e experiência de uso.
+Aplicação Fullstack para organização de projetos e tarefas, com autenticação, controle de acesso e arquitetura desacoplada entre frontend e backend.
 
-### Stack
+**Tecnologias**
 
-<p>
+![Angular](https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=DD0031)
+![NestJS](https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=E0234E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="30" title="NestJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30" title="Prisma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
+**Principais funcionalidades**
+- Autenticação baseada em JWT.
+- Controle de acesso por papéis e permissões.
+- Gerenciamento de projetos e tarefas.
+- Persistência de dados com PostgreSQL e Prisma.
+- Frontend com Angular e backend com NestJS.
+- Evolução contínua da arquitetura e da experiência do usuário.
 
-</p>
+💻 **Repositório:** [Hunterland/TaskFlow](https://github.com/Hunterland/taskflow)
 
-### Funcionalidades
+🌐 **Deploy:** Em desenvolvimento.
 
-✅ Autenticação com JWT e controle de sessão  
-✅ Controle de perfis, permissões e acesso por papel  
-✅ Gestão de projetos e tarefas em uma interface organizada  
-✅ Arquitetura modular com frontend e backend desacoplados  
-✅ Persistência com PostgreSQL e Prisma  
-✅ Interface pensada para uso diário e evolução contínua  
+---
 
-### Diferenciais
+### 🧠 Helpsi — Plataforma de Consultas Psicológicas
 
-✔ Estrutura preparada para crescimento incremental  
-✔ Separação clara entre domínio, API e interface  
-✔ Foco em manutenção, organização e boa experiência de uso  
-✔ Projeto em evolução contínua com melhorias de UX e arquitetura  
+Projeto acadêmico desenvolvido em colaboração, voltado à conexão entre psicólogos e pacientes, com foco na organização dos atendimentos e na experiência do usuário.
 
-🌐 Deploy  
-Em processo... ⏳
+**Tecnologias**
 
-💻 Repositório  
-[https://github.com/alan-barroncas95](https://github.com/Hunterland/taskflow)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
+![Material UI](https://img.shields.io/badge/Material_UI-111111?style=flat-square&logo=mui&logoColor=007FFF)
+![Ant Design](https://img.shields.io/badge/Ant_Design-111111?style=flat-square&logo=antdesign&logoColor=0170FE)
+
+**Minhas contribuições**
+- Desenvolvimento e aprimoramento de funcionalidades frontend.
+- Implementação de interfaces e componentes reutilizáveis.
+- Integração com APIs e fluxos de autenticação.
+- Desenvolvimento de interfaces responsivas.
+- Implementação de recursos de internacionalização (i18n).
+
+💻 **Repositório:** [Project Helpsi — Frontend](https://github.com/rmvnew/project-helpsi-frontEnd)
+
+🔒 Repositório privado, com participação como desenvolvedor colaborador.
 
 ---
 
