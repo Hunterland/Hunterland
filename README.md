@@ -22,7 +22,7 @@ Atuo principalmente no desenvolvimento de sistemas corporativos utilizando **Ang
 
 Tenho interesse especial em compreender **todo o ciclo da aplicação** — desde a experiência do usuário até regras de negócio, APIs e persistência de dados.
 
-Além da tecnologia, atuo como **artista na cultura hip-hop do Amazonas** em staffs de eventos culturais, fortalecendo minha visão e organização de processos e trabalho em equipe**.
+Além da tecnologia, atuo como **artista na cultura hip-hop do Amazonas** em staffs de eventos culturais, fortalecendo minha visão e organização de processos e trabalho em equipe.
 
 ---
 
